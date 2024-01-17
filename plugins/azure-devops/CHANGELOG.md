@@ -1,5 +1,18 @@
 # @backstage/plugin-azure-devops
 
+## 0.3.12-next.0
+
+### Patch Changes
+
+- 995d280: Updated imports from named to default imports to help with the Material UI v4 to v5 migration
+- Updated dependencies
+  - @backstage/core-components@0.13.10
+  - @backstage/core-plugin-api@1.8.2
+  - @backstage/plugin-catalog-react@1.9.3
+  - @backstage/catalog-model@1.4.3
+  - @backstage/errors@1.2.3
+  - @backstage/plugin-azure-devops-common@0.3.2
+
 ## 0.3.11
 
 ### Patch Changes

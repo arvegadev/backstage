@@ -1,5 +1,19 @@
 # @backstage/plugin-entity-validation
 
+## 0.1.15-next.0
+
+### Patch Changes
+
+- 1f70e46: Improves UX of the EntityValidationPage: Moves the validate button below the EntityTextArea which is actually validated, the location TextField can now be hidden to prevent confusion about what is validated and additional content can be added to the top of the validation page.
+- Updated dependencies
+  - @backstage/core-components@0.13.10
+  - @backstage/core-plugin-api@1.8.2
+  - @backstage/plugin-catalog-react@1.9.3
+  - @backstage/catalog-client@1.5.2
+  - @backstage/catalog-model@1.4.3
+  - @backstage/errors@1.2.3
+  - @backstage/plugin-catalog-common@1.0.20
+
 ## 0.1.14
 
 ### Patch Changes

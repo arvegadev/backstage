@@ -1,5 +1,18 @@
 # @backstage/plugin-kubernetes-react
 
+## 0.2.2-next.0
+
+### Patch Changes
+
+- db1054b: Fixed a bug where the logs dialog and any other functionality depending on the proxy endpoint would fail for clusters configured with the OIDC auth provider.
+- Updated dependencies
+  - @backstage/core-components@0.13.10
+  - @backstage/core-plugin-api@1.8.2
+  - @backstage/catalog-model@1.4.3
+  - @backstage/errors@1.2.3
+  - @backstage/types@1.1.1
+  - @backstage/plugin-kubernetes-common@0.7.3
+
 ## 0.2.1
 
 ### Patch Changes

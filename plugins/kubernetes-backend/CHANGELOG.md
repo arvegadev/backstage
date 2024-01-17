@@ -1,5 +1,27 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.14.2-next.0
+
+### Patch Changes
+
+- 7233f57: Fixed an issue where a misleading error message would be logged when an
+  unsupported service locator method was specified.
+- Updated dependencies
+  - @backstage/backend-common@0.20.2-next.0
+  - @backstage/config@1.1.1
+  - @backstage/integration-aws-node@0.1.8
+  - @backstage/plugin-auth-node@0.4.4-next.0
+  - @backstage/plugin-permission-node@0.7.21-next.0
+  - @backstage/plugin-catalog-node@1.6.2-next.0
+  - @backstage/backend-plugin-api@0.6.10-next.0
+  - @backstage/catalog-client@1.5.2
+  - @backstage/catalog-model@1.4.3
+  - @backstage/errors@1.2.3
+  - @backstage/types@1.1.1
+  - @backstage/plugin-kubernetes-common@0.7.3
+  - @backstage/plugin-kubernetes-node@0.1.4-next.0
+  - @backstage/plugin-permission-common@0.7.12
+
 ## 0.14.1
 
 ### Patch Changes

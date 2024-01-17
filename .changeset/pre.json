@@ -262,7 +262,25 @@
     "@backstage/plugin-vault": "0.1.24",
     "@backstage/plugin-vault-backend": "0.4.2",
     "@backstage/plugin-vault-node": "0.1.2",
-    "@backstage/plugin-xcmetrics": "0.2.47"
+    "@backstage/plugin-xcmetrics": "0.2.47",
+    "@backstage/plugin-signals": "0.0.0",
+    "@backstage/plugin-signals-backend": "0.0.0",
+    "@backstage/plugin-signals-node": "0.0.0",
+    "@backstage/plugin-signals-react": "0.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1705516607",
+    "curvy-ladybugs-impress",
+    "cyan-bats-lick",
+    "friendly-cheetahs-rescue",
+    "gorgeous-bobcats-press",
+    "metal-students-drive",
+    "neat-hotels-wink",
+    "polite-meals-hug",
+    "real-eggs-sip",
+    "six-melons-end",
+    "strange-parents-hammer",
+    "warm-maps-scream",
+    "young-rules-repeat"
+  ]
 }
