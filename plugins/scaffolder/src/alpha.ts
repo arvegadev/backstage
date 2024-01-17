@@ -19,5 +19,3 @@ export {
   type TemplateListPageProps,
   type TemplateWizardPageProps,
 } from './next';
-
-export * from './legacy';
